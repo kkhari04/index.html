@@ -1,2 +1,2 @@
-# index.html
+# README
 Tic Tac Toe game
